@@ -28,23 +28,10 @@ I’m a **Computer Science student**, specializing in **Java and Java-related te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" title="GitHub" />  
-
-  <!-- Office Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" width="40" title="Microsoft Office" /> 
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" title="GitHub">
 </p>
 
 ---
-
-## 📂 Projects
-
-- [Amazon Clone](https://github.com/ashishgole30/Amazon-Clone) 🛒 — Built using HTML & CSS  
-
----
-
-## 📫 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/ashish-gole30/) 🔗
 
 ## 📂 Projects
 
