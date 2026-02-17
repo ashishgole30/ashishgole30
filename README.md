@@ -1,9 +1,8 @@
 # Hi, I'm Ashish Gole 👋
 
 I’m a pre-final year **Computer Science student**, specializing in **Java and Java-related technologies**, at **Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT)**. 
-<p>
 ![Profile Views](https://komarev.com/ghpvc/?username=ashishgole30&color=green)
-</p>
+
 
 ---
 
