@@ -40,4 +40,4 @@ I’m a pre-final year **Computer Science student**, specializing in **Java and 
 
 ## 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/ashishgole30/) 🔗
+- [LinkedIn](https://www.linkedin.com/in/ashish-gole30/) 🔗
