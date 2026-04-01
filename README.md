@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Gole 👋  
 
-I’m a **Computer Science student**, specializing in **Java and Java-related technologies**, at **Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT)**.  
+I’m a **Computer Science student**, specializing in **Java and Java-related technologies**.  
 
 <br />
 
